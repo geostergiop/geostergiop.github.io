@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Short Bio
 
-You can use the [editor on GitHub](https://github.com/geostergiop/gstergiopoulos.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dr. George Stergiopoulos is an Assistant Professor of ICT, Industrial and Telecommunications Security with University of the Aegean, Department of Information and Communication Systems Engineering, and a Research partner of Athens University of Economics and Business and University of Piraeus. He also works as an ICT/OT Security Consultant. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He has a Ph.D. degree on Information Security software and Critical Infrastructure Protection from the Department of Informatics, Athens University of Economics and Business, Greece, an M.Sc. degree on Information Technology from Athens University of Economics and Business, Greece and a B.Sc. degree on Computer Science from the University of Piraeus. He is a member of the In-for¬ma¬ti¬on Security and Cri¬tical Infra¬struc¬ture Protection (IN¬FOSEC) Laboratory and the cybersecurity group from Department of Informatics, University of Piraeus.
 
-### Markdown
+[Google Scholar](https://scholar.google.com/citations?user=54sj0uEAAAAJ&hl=en)
+[University Department](https://www.icsd.aegean.gr/tmima_en)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Interests
 
-```markdown
-Syntax highlighted code block
+Current research interests focus on Industrial Systems Security, Critical Infrastructure Protection, IT and Network Security, Risk Assessment and Security in Software Engineering. He has published more than 30 articles in journals and conference proceedings. 
 
-# Header 1
-## Header 2
-### Header 3
+### Professional experience
 
-- Bulleted
-- List
+Professional experience includes working as a consultant in ICT and information security projects for developing Information Security Management Systems (ISMS) according to ISO 27001, ISO 62443, and their US equivalents from NIST SP800-30, SP800-53 and SP800-82. Experience also includes the developments of enterprise Security Plans, Business Continuity Plans, Destruction Recovery plans and assessing enterprises against IT threats and risks through governance, compliance, identification, and validation. He also works as an IT and OT security penetration tester. George was also employed as an Interim Agent at the European Agency for Cybersecurity (ENISA).
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
+Assistant Professor,   University of the Aegean  
 
-[Link](url) and ![Image](src)
-```
+Laboratory of Information & Communication Systems Security
+Department of Information & Communication Systems Engineering
+Karlovassi, Samos, 83200, Greece
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geostergiop/gstergiopoulos.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+E-mail: g.stergiopoulos AT {aegean.gr}, geostergiop AT {aueb.gr}
