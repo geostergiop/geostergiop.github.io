@@ -6,7 +6,7 @@ He also works as an ICT/OT Security Consultant. He has a Ph.D. degree on Informa
 
 [Publications](publications.md) | [Contact](contact.md)
 
-[CV (English)](CV-EN.pdf)   |   [CV (Greek)](CV-GR.pdf)
+[CV (English)](CV-EN.pdf)   |     [CV (Greek)](CV-GR.pdf)
 
 ### Research Interests
 
