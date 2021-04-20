@@ -4,7 +4,7 @@ Dr. George Stergiopoulos is an Assistant Professor of ICT, Industrial and Teleco
 
 [Publications](publications.md)
 
-[CV](CV.md)
+[CV (Greek)](CV-GR.pdf)
 
 ### Research Interests
 
