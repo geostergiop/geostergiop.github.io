@@ -2,9 +2,9 @@
 
 Dr. George Stergiopoulos is an Assistant Professor of ICT, Industrial and Telecommunications Security with University of the Aegean, Department of Information and Communication Systems Engineering, and a Research partner of Athens University of Economics and Business and University of Piraeus. He also works as an ICT/OT Security Consultant. He has a Ph.D. degree on Information Security software and Critical Infrastructure Protection from the Department of Informatics, Athens University of Economics and Business, Greece, an M.Sc. degree on Information Technology from Athens University of Economics and Business, Greece and a B.Sc. degree on Computer Science from the University of Piraeus.
 
-[Google Scholar](https://scholar.google.com/citations?user=54sj0uEAAAAJ&hl=en)
+[Publications](publications.md)
 
-[University Department](https://www.icsd.aegean.gr/tmima_en)
+[CV](CV.md)
 
 ### Research Interests
 
