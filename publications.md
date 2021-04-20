@@ -1,4 +1,7 @@
-## Publications
+
+[Back to Main Page](index.md)
+
+## Publications 
 
 ### Journals
 5.	[J-19] Stergiopoulos G., Gritzalis D., Anagnostopoulou A., Vasilellis E., "Dropping malware through sound injection: A comparative analysis on Android operating systems”, Computers & Security, February 2021.
