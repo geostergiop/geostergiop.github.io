@@ -4,6 +4,9 @@
 ## Publications 
 
 ### Journals
+2.	[J-22] Dedousis P., Stergiopoulos G., Arampatzis G. and Gritzalis D., A security-aware framework for designing in-dustrial engineering processes, IEEE ACCESS, November 2021.
+3.	[J-21] Xarhoulacos C.-G., Anagnostopoulou A., Stergiopoulos G., Gritzalis D., "Misinformation vs. situational awareness: The art of deception and the need for cross-domain detection", Sensors (Special Issue: Cyber Situational Awareness), August 2021.
+4.	[J-20] V. Malamas, F. Chantzis, T. K. Dasaklis, G. Stergiopoulos, P. Kotzanikolaou and C. Douligeris, "Risk Assessment Methodologies for the Internet of Medical Things: A Survey and Comparative Appraisal," in IEEE Access, vol. 9, pp. 40049-40075, 2021.
 5.	[J-19] Stergiopoulos G., Gritzalis D., Anagnostopoulou A., Vasilellis E., "Dropping malware through sound injection: A comparative analysis on Android operating systems”, Computers & Security, February 2021.
 6.	[J-18] G. Lykou, P. Dedousis, G. Stergiopoulos, D. Gritzalis, “Assessing Interdependencies and Congestion Delays in the Aviation Network”, IEEE Access, 2020
 7.	[J-17] Gkotsis I., Gazi A., Gritzalis D., Stergiopoulos G., Limneos V., Vassiliou V., Koutiva E., Petrantonakis D., Lefkokilos E., Agrafioti E., Chalkidou A., Drakoulis D., Eleftheriou A., Skalidi A., Demestichas  P., Fuggini C. (2020) Securing the European Gas Network, the Greek Business Case. Special Issue “Technology Advances and Support for Security Practitioners” of Security Informatics and Law Enforcement, Springer, ISSN: 2523-8507
@@ -25,6 +28,7 @@
 23.	[J-1] Stergiopoulos, G., Kotzanikolaou, P., Theocharidou, M., & Gritzalis, D. (2015). Risk mitigation strategies for critical infrastructures based on graph centrality analysis. In: International Journal of Critical Infrastructure Protection, Elsevier, 10, 34-44.
 
 ### Conferences
+23.	[C-21] Konstantinou, C., Stergiopoulos, G., Parvania, M., & Esteves-Verissimo, P. (2021). Chaos engineering for enhanced resilience of cyber-physical systems. Resilience Week (RWS) 2021, INL Idaho National Laboratory, Washincton D.C., October 2021. 
 24.	[C-20] Dedousis P., Stergiopoulos G., Gritzalis D., "Towards integrating security in industrial engineering design practices”, in Proc. of the 18th International Conference on Security & Cryptography (SECRYPT-2021), July 2021.
 25.	[C-19] K. Nomikos, A. Papadimitriou, G. Stergiopoulos, D. Koutras, M. Psarakis and P. Kotzanikolaou, "On a Security-oriented Design Framework for Medical IoT Devices: The Hardware Security Perspective," 2020 23rd Euromicro Conference on Digital System Design (DSD), Kranj, Slovenia, 2020, pp. 301-308, doi: 10.1109/DSD51259.2020.00056.
 26.	[C-18] Stergiopoulos G., Lygerou E., Tsalis N., Tomaras D., Gritzalis D., Avoiding network and host detection using packet bit-masking, In Proc. of the 17th International Conference Security and Cryptography (SECRYPT-2020), ICETE, 2020. 
