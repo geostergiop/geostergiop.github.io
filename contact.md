@@ -1,9 +1,8 @@
 ### Contact
 
-Assistant Professor, University of the Aegean  
+Assistant Professor, Athens University of Economics and Business  
 
-Laboratory of Information & Communication Systems Security
-Department of Information & Communication Systems Engineering
-Karlovassi, Samos, 83200, Greece
+Department of Informatics
+28is Oktovriou 76, Athina GR10434
 
-E-mail: g.stergiopoulos AT {aegean.gr}, geostergiop AT {aueb.gr}
+E-mail: geostergiop AT {aueb.gr}, g.stergiopoulos AT {aegean.gr}
